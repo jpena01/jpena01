@@ -1,16 +1,23 @@
-### Hi there 👋
+### Welcome to this Github 
+🪪 Name: Joshua Pena
+🚧 Active Projects:
+MagiK:
+  Personal game project inspired by the tick system of Runescape combined with a mix of some RTS mechanics.
+  Currently reserching and learning which engine to use to build it. Unity is the fist to try...
+  
+Studying for Security Certs:
+CIPT
+CIPM
+CIPP
+OSCP
 
-<!--
-**jpena01/jpena01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Completed Certs:
+CompTIA A+
 
-Here are some ideas to get you started:
+🔭
+🌽 Interested In: Game Development, Full Stack Development, Automation, PenTesting
+🎮 Hobbies:
+Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 How was your Day?
+📫 Want to reach out? Hit me up with an email or direct message!
